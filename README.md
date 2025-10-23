@@ -20,5 +20,5 @@
 
 ### 📱プロダクト
 
-- 🛠️**[Think Smart Tools]**
-  Next.js練習用、プチツール集
+- 🛠️ **[Think Smart Tools](https://www.think-smart.tools/ja)**  
+Next.js練習用、プチツール集
